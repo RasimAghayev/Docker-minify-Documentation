@@ -1,4 +1,4 @@
-FROM php:8.2.0RC6-cli-bullseye
+FROM php:8.2.0RC7-cli-bullseye
 
 WORKDIR /app
 
