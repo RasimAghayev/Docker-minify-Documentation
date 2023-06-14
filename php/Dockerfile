@@ -1,5 +1,5 @@
 
-FROM php:8.2.4RC1-cli-bullseye
+FROM php:latest
 
 WORKDIR /app
 
