@@ -1,4 +1,4 @@
-FROM mongo:5-focal
+FROM mongo:6-focal
 
 WORKDIR /app
 
